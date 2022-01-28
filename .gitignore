@@ -1,0 +1,8 @@
+.next/
+
+./next.config.js
+
+# ignore VS code
+.DS_Store
+# ignore all mods
+node_modules/
